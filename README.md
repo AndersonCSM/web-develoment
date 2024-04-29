@@ -12,7 +12,7 @@ The projects are separated by level of complexity:
 
 ## Contact
 - Social networks:https://github.com/AndersonCSM
--Contact email: andersoncarlos799@gmail.com
+- Contact email: andersoncarlos799@gmail.com
 
 ---
 ## Sobre
