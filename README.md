@@ -1,4 +1,32 @@
-Repositório para projetos web, envolvendo atividades de criação, customização e funcionamento de aplicações web.
+Repository for web projects, involving creation, customization and web applications.
+The projects are separated by level of complexity:
+- Basic;
+- Intermediary;
+- Advanced.
+
+Some technologies are covered, such as:
+- HTML5;
+- CSS3;
+- Javascript;
+
+Contact:
+[Social networks](https://github.com/AndersonCSM)
+[contact email](andersoncarlos799@gmail.com)
+
 ---
-This repository is intended for web projects, involving activities of creation, customization, and operation of web applications
+Repositório para projetos web, envolvendo atividade de criação, customização e aplicações web.
+Os projetos estão separados em nível de complexidade:
+- Básico;
+- Intermediário;
+- Avançado.
+
+São abordados algumas tecnologias, como:
+- HTML5;
+- CSS3;
+- Javascript;
+
+## Contato: 
+[Redes sociais](https://github.com/AndersonCSM)
+[email de contato](andersoncarlos799@gmail.com)
+
 ---
