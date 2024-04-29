@@ -15,7 +15,7 @@ The projects are separated by level of complexity:
 [contact email](andersoncarlos799@gmail.com)
 
 ---
-## Sobre o repositório
+## Sobre
 Repositório para projetos web, envolvendo atividade de criação, customização e aplicações web.
 Os projetos estão separados em nível de complexidade:
 - Básico;
