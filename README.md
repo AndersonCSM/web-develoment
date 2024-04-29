@@ -1,3 +1,4 @@
+# English
 ## About
 Repository for web projects, involving creation, customization and web applications.
 The projects are separated by level of complexity:
@@ -15,6 +16,7 @@ The projects are separated by level of complexity:
 - Contact email: andersoncarlos799@gmail.com
 
 ---
+# Português Brasil
 ## Sobre
 Repositório para projetos web, envolvendo atividade de criação, customização e aplicações web.
 Os projetos estão separados em nível de complexidade:
