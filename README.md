@@ -26,7 +26,8 @@ São abordados algumas tecnologias, como:
 - Javascript;
 
 ## Contato: 
-[Redes sociais](https://github.com/AndersonCSM)
+[Redes sociais](https://github.com/AndersonCSM),
+
 [email de contato](andersoncarlos799@gmail.com)
 
 ---
